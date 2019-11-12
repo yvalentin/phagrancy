@@ -4,3 +4,6 @@ data/
 .env
 composer.lock
 phpunit.xml
+
+!data/
+!.gitignore
